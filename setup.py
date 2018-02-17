@@ -10,7 +10,7 @@ setup(
     name="scrapyd",
     version=read('VERSION'),
     author="Santiago Guichon",
-    author_email="v-sguichon@expedia.com",
+    author_email="santiago.guichon@gmail.com",
     description="Scrapyd server",
     # packages=['an_example_pypi_project', 'tests'],
     install_requires=[
