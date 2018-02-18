@@ -14,6 +14,7 @@ setup(
     description="Scrapyd server",
     # packages=['an_example_pypi_project', 'tests'],
     install_requires=[
+	'pyasn1-modules',
         'scrapy',
         'scrapyd',
         'scrapyd-client',
